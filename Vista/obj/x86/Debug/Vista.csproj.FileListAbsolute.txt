@@ -1,0 +1,10 @@
+c:\users\android\documents\visual studio 2010\Projects\SolValidarPart2\Vista\bin\Debug\Vista.exe
+c:\users\android\documents\visual studio 2010\Projects\SolValidarPart2\Vista\bin\Debug\Vista.pdb
+c:\users\android\documents\visual studio 2010\Projects\SolValidarPart2\Vista\bin\Debug\Datos.dll
+c:\users\android\documents\visual studio 2010\Projects\SolValidarPart2\Vista\bin\Debug\Datos.pdb
+c:\users\android\documents\visual studio 2010\Projects\SolValidarPart2\Vista\obj\x86\Debug\Vista.csprojResolveAssemblyReference.cache
+c:\users\android\documents\visual studio 2010\Projects\SolValidarPart2\Vista\obj\x86\Debug\Vista.Form1.resources
+c:\users\android\documents\visual studio 2010\Projects\SolValidarPart2\Vista\obj\x86\Debug\Vista.Properties.Resources.resources
+c:\users\android\documents\visual studio 2010\Projects\SolValidarPart2\Vista\obj\x86\Debug\Vista.csproj.GenerateResource.Cache
+c:\users\android\documents\visual studio 2010\Projects\SolValidarPart2\Vista\obj\x86\Debug\Vista.exe
+c:\users\android\documents\visual studio 2010\Projects\SolValidarPart2\Vista\obj\x86\Debug\Vista.pdb
